@@ -1,7 +1,7 @@
-import settings as game
+# import sys
 import pygame as pg
 import numpy as np
-import level
+# import level
 
 x = np.abs(-12)
 
@@ -11,19 +11,19 @@ print(x)
 pg.init()
 
 # creating the canvas/screen
-screen = pg.display.set_mode(game.size)
+screen = pg.display.set_mode((300, 300))
 pg.display.set_caption("Ray Caster 3D")
 
 exit = False
 
-currentLevel = 0
+#currentLevel = 0
 
 
-print(level.LEVEL[currentLevel])
+#print(level.LEVEL[currentLevel])
 
-currentLevel += 1
+#currentLevel += 1
 
-print(level.LEVEL[currentLevel])
+#print(level.LEVEL[currentLevel])
 
 while not exit:
 

@@ -1,4 +1,4 @@
-import settings as game
+# import settings as game
 
 # tile properties
 # if LEVEL_1[n][x] == 0:
