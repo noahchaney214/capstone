@@ -27,4 +27,5 @@ LEVEL_3 = [[1, 1, 1, 1, 1, 1, 1, 1],
            [1, 0, 0, 0, 0, 0, 0, 1],
            [1, 1, 1, 1, 1, 1, 1, 1]]
 
+# array of levels used to iterate through for pygame
 LEVEL = [None, LEVEL_1, LEVEL_2, LEVEL_3]

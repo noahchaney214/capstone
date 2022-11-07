@@ -11,6 +11,10 @@ HEIGHT = 720
 size = (WIDTH, HEIGHT)
 
 # level settings
+# set 1 to be a wall with texture x
+# set 0 to be floor
+# set 2 to be a special wall
+# . . .
 
 # player settings
 FOV = 80
