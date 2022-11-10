@@ -10,7 +10,7 @@ GAME_WIDTH = 1280
 GAME_HEIGHT = 720
 game_size = (GAME_WIDTH, GAME_HEIGHT)
 
-# menu screen size
+# menu.py screen size
 MENU_WIDTH = 600
 MENU_HEIGHT = 600
 menu_size = (MENU_WIDTH, MENU_HEIGHT)
